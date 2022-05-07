@@ -38,3 +38,15 @@ tsc --noEmitOnError filename.ts
 let unusable: void = undefined;
 ```
 
+### 2. 任意值
+
+任意值（Any）用来表示允许赋值为任意类型。
+
+### 3. 类型推断
+
+> TypeScript 会在没有明确的指定类型的时候推测出一个类型，这就是类型推论。
+
+### 4.联合类型
+
+> 联系类型（Unit Types）表示取值可以为多种类型中的一种。
+
